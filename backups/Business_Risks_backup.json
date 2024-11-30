@@ -1,0 +1,27 @@
+{
+    "risks": [
+        {
+            "name": "Market Fluctuation",
+            "probability": 0.7,
+            "impact": 8,
+            "added_at": "2024-11-19 22:29:02"
+        },
+        {
+            "name": "Cyber Attack",
+            "probability": 0.4,
+            "impact": 9,
+            "added_at": "2024-11-19 22:29:02"
+        }
+    ],
+    "comments": [
+        {
+            "comment": "This report focuses on external market risks.",
+            "added_at": "2024-11-19 22:29:02"
+        },
+        {
+            "comment": "Consider mitigating the cyber attack risk.",
+            "added_at": "2024-11-19 22:29:02"
+        }
+    ],
+    "created_at": "2024-11-19 22:29:02"
+}
